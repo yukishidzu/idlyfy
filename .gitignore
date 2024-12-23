@@ -1,0 +1,15 @@
+# Golang
+*.exe
+*.out
+*.test
+
+# IDE and editor files
+.idea/
+.vscode/
+.DS_Store
+
+# Environment files
+.env
+
+# OS-specific
+Thumbs.db
